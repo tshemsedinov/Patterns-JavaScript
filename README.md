@@ -16,7 +16,7 @@
   - Висока згуртованість (High cohesion)
   - Поліморфізм (Polymorphism)
   - Захищені варіації (Protected variations)
-  - Pure fabrication (Чиста вигадка)
+  - Чиста вигадка (Pure fabrication)
 - Шаблони (патерни чи принципи) SOLID
   - Single responsibility principle
   - Open/closed principle
