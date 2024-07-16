@@ -1,8 +1,8 @@
-# 🧩 Patterns for JavaScript & Node.js
+# 🧩 Шаблони для JavaScript та Node.js
 
-> Rethinking GRASP (General Responsibility Assignment Software Patterns), SOLID (Single responsibility, Open–closed, Liskov substitution, Interface segregation, Dependency inversion), GoF (Gang of Four) patterns, for Frontend (browsers) & Backend (node.js, other runtimes) development with JavaScript and TypeScript
+> Переосмислення шаблонів GRASP (розподілу обов’язків - General Responsibility Assignment Software Patterns), SOLID (єдина відповідальність, відкритий–закритий, підстановка Лісков, розподілення інтерфейсів, інверсія залежностей), шаблони GoF (Банда чотирьох) для фронтенду (браузери) і бекенду (node.js, інші рантайми) розробки на JavaScript і TypeScript
 
-Translations:
+Переклади:
 [EN](https://github.com/tshemsedinov/Patterns-JavaScript/tree/en),
 [UA](https://github.com/tshemsedinov/Patterns-JavaScript/tree/ua),
 [RU](https://github.com/tshemsedinov/Patterns-JavaScript/tree/ru).
