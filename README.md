@@ -55,8 +55,8 @@
   - Чиста вигадка (Pure fabrication)
 - Шаблони (патерни чи принципи) SOLID
   - Вступний семінар: [SOLID for Node.js and Javascript](https://youtu.be/B2guSV8EMn0)
-  - Single responsibility principle
-  - Open/closed principle
-  - Liskov substitution principle
-  - Interface segregation principle
-  - Dependency inversion principle
+  - Принцип єдиної відповідальності (Single responsibility principle)
+  - Принцип відкритості/закритості (Open/closed principle)
+  - Принцип підстановки Лісков (Liskov substitution principle)
+  - Принцип розділення інтерфейсів (Interface segregation principle)
+  - Принцип інверсії залежностей (Dependency inversion principle)
