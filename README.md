@@ -7,23 +7,8 @@ Translations:
 [UA](https://github.com/tshemsedinov/Patterns-JavaScript/tree/ua),
 [RU](https://github.com/tshemsedinov/Patterns-JavaScript/tree/ru).
 
-- GRASP patterns
-  - Information expert
-  - Creator
-  - Controller
-  - Indirection
-  - Low coupling
-  - High cohesion
-  - Polymorphism
-  - Protected variations
-  - Pure fabrication
-- SOLID Patterns
-  - Single responsibility principle
-  - Open/closed principle
-  - Liskov substitution principle
-  - Interface segregation principle
-  - Dependency inversion principle
 - Gof Patterns
+  - 🧩 [GoF patterns for Node.js and JavaScript (seminar frarment)](https://youtu.be/7TjzsZCQQqg)
   - Creational patterns
     - Abstract factory
     - [Builder](https://github.com/HowProgrammingWorks/Builder)
@@ -55,3 +40,23 @@ Translations:
     - [Strategy](https://github.com/HowProgrammingWorks/Strategy)
     - Template method
     - Visitor
+- GRASP patterns
+  - Intro video
+    - Part 1 - [GRASP for Node.js and Javascript](https://youtu.be/vm8p4jIQwp4)
+    - Part 2 - coming soon
+  - Information expert
+  - Creator
+  - Controller
+  - Indirection
+  - Low coupling
+  - High cohesion
+  - Polymorphism
+  - Protected variations
+  - Pure fabrication
+- SOLID Patterns
+  - Intro video: [SOLID for Node.js and Javascript](https://youtu.be/B2guSV8EMn0)
+  - Single responsibility principle
+  - Open/closed principle
+  - Liskov substitution principle
+  - Interface segregation principle
+  - Dependency inversion principle
