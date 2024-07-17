@@ -8,7 +8,7 @@
 [RU](https://github.com/tshemsedinov/Patterns-JavaScript/tree/ru).
 
 - Патерни GoF
-  - 🧩 [GoF паттерни для Node.js та JavaScript (фрагмент семінару)](https://youtu.be/7TjzsZCQQqg)
+  - 🧩 [GoF патерни для Node.js та JavaScript (фрагмент семінару)](https://youtu.be/7TjzsZCQQqg)
   - Шаблони, що породжують
     - Абстрактна фабрика (Abstract factory)
     - [Будівельник (Builder)](https://github.com/HowProgrammingWorks/Builder)
