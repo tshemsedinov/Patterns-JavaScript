@@ -7,23 +7,8 @@
 [UA](https://github.com/tshemsedinov/Patterns-JavaScript/tree/ua),
 [RU](https://github.com/tshemsedinov/Patterns-JavaScript/tree/ru).
 
-- Шаблоны (патерны или принципы) GRASP
-  - Информационный эксперт (Information expert)
-  - Создатель (Creator)
-  - Контроллер (Controller)
-  - Ненаправленность (Indirection)
-  - Низкое зацепление (Low coupling)
-  - Высокая связность (High cohesion)
-  - Полиморфизм (Polymorphism)
-  - Защищенные вариации (Protected variations)
-  - Чистая выдумка (Pure fabrication)
-- Шаблоны (патерны или принципы) SOLID
-  - Single responsibility principle
-  - Open/closed principle
-  - Liskov substitution principle
-  - Interface segregation principle
-  - Dependency inversion principle
 - Патерны GoF
+  - 🧩 [GoF патерны для Node.js и JavaScript (фрагмент семинара)](https://youtu.be/7TjzsZCQQqg)
   - Порождающие шаблоны
     - Абстрактная фабрика (Abstract factory)
     - [Строитель (Builder)](https://github.com/HowProgrammingWorks/Builder)
@@ -55,3 +40,23 @@
     - [Стратегия (Strategy)](https://github.com/HowProgrammingWorks/Strategy)
     - Шаблонный метод (Template method)
     - Посетитель (Visitor)
+- Шаблоны (патерны или принципы) GRASP
+  - Вводная лекция
+    - Часть 1 - [GRASP для Node.js и Javascript](https://youtu.be/vm8p4jIQwp4)
+    - Часть 2 - скоро
+  - Информационный эксперт (Information expert)
+  - Создатель (Creator)
+  - Контроллер (Controller)
+  - Ненаправленность (Indirection)
+  - Низкое зацепление (Low coupling)
+  - Высокая связность (High cohesion)
+  - Полиморфизм (Polymorphism)
+  - Защищенные вариации (Protected variations)
+  - Чистая выдумка (Pure fabrication)
+- Шаблоны (патерны или принципы) SOLID
+  - Вводная лекция: [SOLID for Node.js and Javascript](https://youtu.be/B2guSV8EMn0)
+  - Single responsibility principle
+  - Open/closed principle
+  - Liskov substitution principle
+  - Interface segregation principle
+  - Dependency inversion principle
