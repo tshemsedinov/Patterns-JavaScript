@@ -42,19 +42,22 @@ Translations:
     - Visitor
 - GRASP patterns
   - Intro video
+    - [GRASP Overview](https://youtu.be/ExauFjYV_lQ)
     - Part 1 - [GRASP for Node.js and Javascript](https://youtu.be/vm8p4jIQwp4)
     - Part 2 - coming soon
-  - Information expert
+  - [Information expert](https://youtu.be/cCHL329_As0)
   - Creator
   - Controller
   - Indirection
-  - Low coupling
-  - High cohesion
+  - [Low coupling](https://youtu.be/IGXdPOZ3Fyk)
+  - [High cohesion](https://youtu.be/IGXdPOZ3Fyk)
   - Polymorphism
   - Protected variations
-  - Pure fabrication
+  - [Pure fabrication](https://youtu.be/CV577a0RHBM)
+  - [Real code examples](https://youtu.be/4AMVQ2-2DcM)
 - SOLID Patterns
   - Intro video: [SOLID for Node.js and Javascript](https://youtu.be/B2guSV8EMn0)
+  - [SOLID Interview questions](https://youtu.be/-9OM6-6pZw8)
   - Single responsibility principle
   - Open/closed principle
   - Liskov substitution principle
