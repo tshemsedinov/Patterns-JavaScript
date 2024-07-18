@@ -42,19 +42,22 @@
     - Посетитель (Visitor)
 - Шаблоны (патерны или принципы) GRASP
   - Вводная лекция
+    - [Общий обзор GRASP](https://youtu.be/ExauFjYV_lQ)
     - Часть 1 - [GRASP для Node.js и Javascript](https://youtu.be/vm8p4jIQwp4)
     - Часть 2 - скоро
-  - Информационный эксперт (Information expert)
+  - [Информационный эксперт (Information expert)](https://youtu.be/cCHL329_As0)
   - Создатель (Creator)
   - Контроллер (Controller)
-  - Ненаправленность (Indirection)
-  - Низкое зацепление (Low coupling)
+  - [Ненаправленность (Indirection)](https://youtu.be/IGXdPOZ3Fyk)
+  - [Низкое зацепление (Low coupling)](https://youtu.be/IGXdPOZ3Fyk)
   - Высокая связность (High cohesion)
   - Полиморфизм (Polymorphism)
   - Защищенные вариации (Protected variations)
-  - Чистая выдумка (Pure fabrication)
+  - [Чистая выдумка (Pure fabrication)](https://youtu.be/CV577a0RHBM)
+  - [Примеры кода](https://youtu.be/4AMVQ2-2DcM)
 - Шаблоны (патерны или принципы) SOLID
   - Вводная лекция: [SOLID for Node.js and Javascript](https://youtu.be/B2guSV8EMn0)
+  - [SOLID вопросы на интервью](https://youtu.be/-9OM6-6pZw8)
   - Single responsibility principle
   - Open/closed principle
   - Liskov substitution principle
