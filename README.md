@@ -58,8 +58,8 @@
 - Шаблоны (патерны или принципы) SOLID
   - Вводная лекция: [SOLID for Node.js and Javascript](https://youtu.be/B2guSV8EMn0)
   - [SOLID вопросы на интервью](https://youtu.be/-9OM6-6pZw8)
-  - Single responsibility principle
-  - Open/closed principle
-  - Liskov substitution principle
-  - Interface segregation principle
-  - Dependency inversion principle
+  - Принцип единственной ответственности (Single responsibility principle)
+  - Принцип открытости/закрытости (Open/closed principle)
+  - Принцип подстановки Лисков (Liskov substitution principle)
+  - Принцип разделения интерфейса (Interface segregation principle)
+  - Принцип инверсии зависимостей (Dependency inversion principle)
