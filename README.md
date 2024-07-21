@@ -7,15 +7,15 @@ Translations:
 [UA](https://github.com/tshemsedinov/Patterns-JavaScript/tree/ua),
 [RU](https://github.com/tshemsedinov/Patterns-JavaScript/tree/ru).
 
-- Gof Patterns
-  - 🧩 [GoF patterns for Node.js and JavaScript (seminar frarment)](https://youtu.be/7TjzsZCQQqg)
-  - Creational patterns
+- 🧩 Gof Patterns
+  - 📢 [GoF patterns for Node.js and JavaScript (seminar fragment)](https://youtu.be/7TjzsZCQQqg)
+  - 🏭 Creational patterns
     - Abstract factory
     - [Builder](https://github.com/HowProgrammingWorks/Builder)
     - [Factory method](https://github.com/HowProgrammingWorks/Factory)
     - [Prototype](https://github.com/HowProgrammingWorks/Prototype)
     - [Singleton](https://github.com/HowProgrammingWorks/Singleton)
-  - Structural patterns
+  - 🤝 Structural patterns
     - [Adapter](https://github.com/HowProgrammingWorks/Adapter)
     - [Bridge](https://github.com/HowProgrammingWorks/Bridge)
     - [Composite](https://github.com/HowProgrammingWorks/Composite)
@@ -23,7 +23,7 @@ Translations:
     - [Facade](https://github.com/HowProgrammingWorks/Facade)
     - Flyweight
     - [Proxy](https://github.com/HowProgrammingWorks/Proxy)
-  - Behavioral patterns
+  - ⚡ Behavioral patterns
     - Chain of responsibility
       - [Chain of responsibility](https://github.com/HowProgrammingWorks/ChainOfResponsibility)
       - Middleware
@@ -40,8 +40,8 @@ Translations:
     - [Strategy](https://github.com/HowProgrammingWorks/Strategy)
     - Template method
     - Visitor
-- GRASP patterns
-  - Intro video
+- 🧩 GRASP patterns
+  - 📢 Intro video
     - [GRASP Overview](https://youtu.be/ExauFjYV_lQ)
     - Part 1 - [GRASP for Node.js and Javascript](https://youtu.be/vm8p4jIQwp4)
     - Part 2 - coming soon
@@ -55,8 +55,8 @@ Translations:
   - Protected variations
   - [Pure fabrication](https://youtu.be/CV577a0RHBM)
   - [Real code examples](https://youtu.be/4AMVQ2-2DcM)
-- SOLID Patterns
-  - Intro video: [SOLID for Node.js and Javascript](https://youtu.be/B2guSV8EMn0)
+- 🧩 SOLID Patterns
+  - 📢 Intro video: [SOLID for Node.js and Javascript](https://youtu.be/B2guSV8EMn0)
   - [SOLID Interview questions](https://youtu.be/-9OM6-6pZw8)
   - [Single responsibility principle](https://youtu.be/o4bQywkBKOI)
   - Open/closed principle
