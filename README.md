@@ -58,8 +58,8 @@
 - Шаблони (патерни чи принципи) SOLID
   - Вступний семінар: [SOLID for Node.js and Javascript](https://youtu.be/B2guSV8EMn0)
   - [SOLID питання на інтерв'ю](https://youtu.be/-9OM6-6pZw8)
-  - Принцип єдиної відповідальності (Single responsibility principle)
+  - [Принцип єдиної відповідальності (Single responsibility principle)](https://youtu.be/o4bQywkBKOI)
   - Принцип відкритості/закритості (Open/closed principle)
-  - Принцип підстановки Лісков (Liskov substitution principle)
+  - [Принцип підстановки Лісков (Liskov substitution principle)](https://youtu.be/RbhYxygxroc)
   - Принцип розділення інтерфейсів (Interface segregation principle)
   - Принцип інверсії залежностей (Dependency inversion principle)
