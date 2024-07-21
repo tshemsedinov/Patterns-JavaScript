@@ -7,15 +7,15 @@
 [UA](https://github.com/tshemsedinov/Patterns-JavaScript/tree/ua),
 [RU](https://github.com/tshemsedinov/Patterns-JavaScript/tree/ru).
 
-- Патерны GoF
-  - 🧩 [GoF патерны для Node.js и JavaScript (фрагмент семинара)](https://youtu.be/7TjzsZCQQqg)
-  - Порождающие шаблоны
+- 🧩 Патерны GoF
+  - 📢 [GoF патерны для Node.js и JavaScript (фрагмент семинара)](https://youtu.be/7TjzsZCQQqg)
+  - 🏭 Порождающие шаблоны
     - Абстрактная фабрика (Abstract factory)
     - [Строитель (Builder)](https://github.com/HowProgrammingWorks/Builder)
     - [Фабричный метод (Factory method)](https://github.com/HowProgrammingWorks/Factory)
     - [Прототип (Prototype)](https://github.com/HowProgrammingWorks/Prototype)
     - [Одиночка (Singleton)](https://github.com/HowProgrammingWorks/Singleton)
-  - Структурные шаблоны
+  - 🤝 Структурные шаблоны
     - [Адаптер (Adapter)](https://github.com/HowProgrammingWorks/Adapter)
     - [Мост (Bridge)](https://github.com/HowProgrammingWorks/Bridge)
     - [Компоновщик (Composite)](https://github.com/HowProgrammingWorks/Composite)
@@ -23,7 +23,7 @@
     - [Фасад (Facade)](https://github.com/HowProgrammingWorks/Facade)
     - Легковес (Flyweight)
     - [Прокси (Proxy)](https://github.com/HowProgrammingWorks/Proxy)
-  - Поведенческие шаблоны
+  - ⚡ Поведенческие шаблоны
     - Цепочка обязанностей (Chain of responsibility)
       - [Chain of responsibility](https://github.com/HowProgrammingWorks/ChainOfResponsibility)
       - Middleware
@@ -40,8 +40,8 @@
     - [Стратегия (Strategy)](https://github.com/HowProgrammingWorks/Strategy)
     - Шаблонный метод (Template method)
     - Посетитель (Visitor)
-- Шаблоны (патерны или принципы) GRASP
-  - Вводная лекция
+- 🧩 Шаблоны (патерны или принципы) GRASP
+  - 📢 Вводная лекция
     - [Общий обзор GRASP](https://youtu.be/ExauFjYV_lQ)
     - Часть 1 - [GRASP для Node.js и Javascript](https://youtu.be/vm8p4jIQwp4)
     - Часть 2 - скоро
@@ -55,8 +55,8 @@
   - Защищенные вариации (Protected variations)
   - [Чистая выдумка (Pure fabrication)](https://youtu.be/CV577a0RHBM)
   - [Примеры кода](https://youtu.be/4AMVQ2-2DcM)
-- Шаблоны (патерны или принципы) SOLID
-  - Вводная лекция: [SOLID for Node.js and Javascript](https://youtu.be/B2guSV8EMn0)
+- 🧩 Шаблоны (патерны или принципы) SOLID
+  - 📢 Вводная лекция: [SOLID for Node.js and Javascript](https://youtu.be/B2guSV8EMn0)
   - [SOLID вопросы на интервью](https://youtu.be/-9OM6-6pZw8)
   - [Принцип единственной ответственности (Single responsibility principle)](https://youtu.be/o4bQywkBKOI)
   - Принцип открытости/закрытости (Open/closed principle)
