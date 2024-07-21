@@ -58,8 +58,8 @@ Translations:
 - SOLID Patterns
   - Intro video: [SOLID for Node.js and Javascript](https://youtu.be/B2guSV8EMn0)
   - [SOLID Interview questions](https://youtu.be/-9OM6-6pZw8)
-  - Single responsibility principle
+  - [Single responsibility principle](https://youtu.be/o4bQywkBKOI)
   - Open/closed principle
-  - Liskov substitution principle
+  - [Liskov substitution principle](https://youtu.be/RbhYxygxroc)
   - Interface segregation principle
   - Dependency inversion principle
