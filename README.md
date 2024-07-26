@@ -13,7 +13,7 @@
     - Абстрактная фабрика (Abstract factory)
     - [Строитель (Builder)](https://github.com/HowProgrammingWorks/Builder)
     - [Фабричный метод (Factory method)](https://github.com/HowProgrammingWorks/Factory)
-    - [Прототип (Prototype)](https://github.com/HowProgrammingWorks/Prototype)
+    - [Прототип (Prototype)](https://github.com/HowProgrammingWorks/PrototypePattern) не путать с [прототипным программированием](https://github.com/HowProgrammingWorks/Prototype)
     - [Одиночка (Singleton)](https://github.com/HowProgrammingWorks/Singleton)
   - 🤝 Структурные шаблоны
     - [Адаптер (Adapter)](https://github.com/HowProgrammingWorks/Adapter)
