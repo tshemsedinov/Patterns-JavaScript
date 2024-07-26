@@ -13,7 +13,7 @@ Translations:
     - Abstract factory
     - [Builder](https://github.com/HowProgrammingWorks/Builder)
     - [Factory method](https://github.com/HowProgrammingWorks/Factory)
-    - [Prototype](https://github.com/HowProgrammingWorks/Prototype)
+    - [Prototype](https://github.com/HowProgrammingWorks/PrototypePattern) do not confuse with [Prototype-programming](https://github.com/HowProgrammingWorks/Prototype)
     - [Singleton](https://github.com/HowProgrammingWorks/Singleton)
   - 🤝 Structural patterns
     - [Adapter](https://github.com/HowProgrammingWorks/Adapter)
