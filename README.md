@@ -21,7 +21,7 @@ Translations:
     - [Composite](https://github.com/HowProgrammingWorks/Composite)
     - [Decorator]()
     - [Facade](https://github.com/HowProgrammingWorks/Facade)
-    - Flyweight
+    - [Flyweight](https://github.com/HowProgrammingWorks/Flyweight)
     - [Proxy](https://github.com/HowProgrammingWorks/Proxy)
   - ⚡ Behavioral patterns
     - Chain of responsibility
