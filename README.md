@@ -39,7 +39,7 @@ Translations:
     - State
     - [Strategy](https://github.com/HowProgrammingWorks/Strategy)
     - Template method
-    - Visitor
+    - [Visitor](https://github.com/HowProgrammingWorks/Visitor)
 - 🧩 GRASP patterns
   - 📢 Intro video
     - [GRASP Overview](https://youtu.be/ExauFjYV_lQ)
