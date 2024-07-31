@@ -21,7 +21,7 @@
     - [Компоновщик (Composite)](https://github.com/HowProgrammingWorks/Composite)
     - Декоратор (Decorator)
     - [Фасад (Facade)](https://github.com/HowProgrammingWorks/Facade)
-    - Легковес (Flyweight)
+    - [Легковес (Flyweight)](https://github.com/HowProgrammingWorks/Flyweight)
     - [Прокси (Proxy)](https://github.com/HowProgrammingWorks/Proxy)
   - ⚡ Поведенческие шаблоны
     - Цепочка обязанностей (Chain of responsibility)
