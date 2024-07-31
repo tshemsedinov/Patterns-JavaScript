@@ -21,7 +21,7 @@
     - [Компонувальник (Composite)](https://github.com/HowProgrammingWorks/Composite)
     - Декоратор (Decorator)
     - [Фасад (Facade)](https://github.com/HowProgrammingWorks/Facade)
-    - Легковаговик (Flyweight)
+    - [Легковаговик (Flyweight)](https://github.com/HowProgrammingWorks/Flyweight)
     - [Проксі (Proxy)](https://github.com/HowProgrammingWorks/Proxy)
   - ⚡ Шаблони поведінки
     - Ланцюжок обов'язків (Chain of responsibility)
