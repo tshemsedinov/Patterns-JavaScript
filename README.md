@@ -39,7 +39,7 @@
     - Стан (State)
     - [Стратегія (Strategy)](https://github.com/HowProgrammingWorks/Strategy)
     - Шаблонний метод (Template method)
-    - Відвідувач (Visitor)
+    - [Відвідувач (Visitor)](https://github.com/HowProgrammingWorks/Visitor)
 - 🧩 Шаблони (патерни чи принципи) GRASP
   - 📢 Вступний семінар
     - [Загальний огляд GRASP](https://youtu.be/ExauFjYV_lQ)
