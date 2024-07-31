@@ -39,7 +39,7 @@
     - Состояние (State)
     - [Стратегия (Strategy)](https://github.com/HowProgrammingWorks/Strategy)
     - Шаблонный метод (Template method)
-    - Посетитель (Visitor)
+    - [Посетитель (Visitor)](https://github.com/HowProgrammingWorks/Visitor)
 - 🧩 Шаблоны (патерны или принципы) GRASP
   - 📢 Вводная лекция
     - [Общий обзор GRASP](https://youtu.be/ExauFjYV_lQ)
