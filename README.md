@@ -28,17 +28,17 @@ Translations:
       - [Chain of responsibility](https://github.com/HowProgrammingWorks/ChainOfResponsibility)
       - Middleware
     - [Command](https://github.com/HowProgrammingWorks/Command)
-    - Interpreter
+    - [Interpreter](https://github.com/HowProgrammingWorks/Interpreter)
     - [Iterator](https://github.com/HowProgrammingWorks/Iterator)
     - Mediator
-    - Memento
+    - [Memento](https://github.com/HowProgrammingWorks/Memento)
     - Observable and Observer: EventEmitter, EventTarget
       - [EventTarget and EventEmitter](https://github.com/HowProgrammingWorks/Events)
       - [EventEmitter](https://github.com/HowProgrammingWorks/EventEmitter)
       - [Observer](https://github.com/HowProgrammingWorks/Observer)
-    - State
+    - [State](https://github.com/HowProgrammingWorks/State)
     - [Strategy](https://github.com/HowProgrammingWorks/Strategy)
-    - Template method
+    - [Template method](https://github.com/HowProgrammingWorks/TemplateMethod)
     - [Visitor](https://github.com/HowProgrammingWorks/Visitor)
 - 🧩 GRASP patterns
   - 📢 Intro video
