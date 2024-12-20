@@ -10,7 +10,7 @@
 - 🧩 Патерны GoF
   - 📢 [GoF патерны для Node.js и JavaScript (фрагмент семинара)](https://youtu.be/7TjzsZCQQqg)
   - 🏭 Порождающие шаблоны
-    - Абстрактная фабрика (Abstract factory)
+    - [Абстрактная фабрика (Abstract factory)](https://github.com/HowProgrammingWorks/AbstractFactory)
     - [Строитель (Builder)](https://github.com/HowProgrammingWorks/Builder)
     - [Фабричный метод (Factory method)](https://github.com/HowProgrammingWorks/Factory)
     - [Прототип (Prototype)](https://github.com/HowProgrammingWorks/PrototypePattern) не путать с [прототипным программированием](https://github.com/HowProgrammingWorks/Prototype)
@@ -19,26 +19,26 @@
     - [Адаптер (Adapter)](https://github.com/HowProgrammingWorks/Adapter)
     - [Мост (Bridge)](https://github.com/HowProgrammingWorks/Bridge)
     - [Компоновщик (Composite)](https://github.com/HowProgrammingWorks/Composite)
-    - Декоратор (Decorator)
+    - Декоратор (Decorator) и [Обертка (Wrapper)](https://github.com/HowProgrammingWorks/Wrapper)
     - [Фасад (Facade)](https://github.com/HowProgrammingWorks/Facade)
     - [Легковес (Flyweight)](https://github.com/HowProgrammingWorks/Flyweight)
     - [Прокси (Proxy)](https://github.com/HowProgrammingWorks/Proxy)
   - ⚡ Поведенческие шаблоны
     - Цепочка обязанностей (Chain of responsibility)
       - [Chain of responsibility](https://github.com/HowProgrammingWorks/ChainOfResponsibility)
-      - Middleware
+      - [Middleware](https://www.youtube.com/watch?v=RS8x73z4csI)
     - [Команда (Command)](https://github.com/HowProgrammingWorks/Command)
-    - Интерпретатор (Interpreter)
+    - [Интерпретатор (Interpreter)](https://github.com/HowProgrammingWorks/Interpreter)
     - [Итератор (Iterator)](https://github.com/HowProgrammingWorks/Iterator)
-    - Посредний (Mediator)
-    - Снимок (Memento)
+    - [Посредний (Mediator)](https://github.com/HowProgrammingWorks/Mediator)
+    - [Снимок (Memento)](https://github.com/HowProgrammingWorks/Memento)
     - Наблюдатель (Observable та Observer, EventEmitter, EventTarget)
       - [EventTarget and EventEmitter](https://github.com/HowProgrammingWorks/Events)
       - [EventEmitter](https://github.com/HowProgrammingWorks/EventEmitter)
       - [Наблюдатель (Observer)](https://github.com/HowProgrammingWorks/Observer)
-    - Состояние (State)
+    - [Состояние (State)](https://github.com/HowProgrammingWorks/State)
     - [Стратегия (Strategy)](https://github.com/HowProgrammingWorks/Strategy)
-    - Шаблонный метод (Template method)
+    - [Шаблонный метод (Template method)](https://github.com/HowProgrammingWorks/TemplateMethod)
     - [Посетитель (Visitor)](https://github.com/HowProgrammingWorks/Visitor)
 - 🧩 Шаблоны (патерны или принципы) GRASP
   - 📢 Вводная лекция
