@@ -10,7 +10,7 @@ Translations:
 - 🧩 Gof Patterns
   - 📢 [GoF patterns for Node.js and JavaScript (seminar fragment)](https://youtu.be/7TjzsZCQQqg)
   - 🏭 Creational patterns
-    - Abstract factory
+    - [Abstract factory](https://github.com/HowProgrammingWorks/AbstractFactory)
     - [Builder](https://github.com/HowProgrammingWorks/Builder)
     - [Factory method](https://github.com/HowProgrammingWorks/Factory)
     - [Prototype](https://github.com/HowProgrammingWorks/PrototypePattern) do not confuse with [Prototype-programming](https://github.com/HowProgrammingWorks/Prototype)
@@ -19,18 +19,18 @@ Translations:
     - [Adapter](https://github.com/HowProgrammingWorks/Adapter)
     - [Bridge](https://github.com/HowProgrammingWorks/Bridge)
     - [Composite](https://github.com/HowProgrammingWorks/Composite)
-    - [Decorator]()
+    - Decorator and [Wrapper](https://github.com/HowProgrammingWorks/Wrapper)
     - [Facade](https://github.com/HowProgrammingWorks/Facade)
     - [Flyweight](https://github.com/HowProgrammingWorks/Flyweight)
     - [Proxy](https://github.com/HowProgrammingWorks/Proxy)
   - ⚡ Behavioral patterns
     - Chain of responsibility
       - [Chain of responsibility](https://github.com/HowProgrammingWorks/ChainOfResponsibility)
-      - Middleware
+      - [Middleware](https://www.youtube.com/watch?v=RS8x73z4csI)
     - [Command](https://github.com/HowProgrammingWorks/Command)
     - [Interpreter](https://github.com/HowProgrammingWorks/Interpreter)
     - [Iterator](https://github.com/HowProgrammingWorks/Iterator)
-    - Mediator
+    - [Mediator](https://github.com/HowProgrammingWorks/Mediator)
     - [Memento](https://github.com/HowProgrammingWorks/Memento)
     - Observable and Observer: EventEmitter, EventTarget
       - [EventTarget and EventEmitter](https://github.com/HowProgrammingWorks/Events)
