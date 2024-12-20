@@ -59,7 +59,7 @@ Translations:
   - 📢 Intro video: [SOLID for Node.js and Javascript](https://youtu.be/B2guSV8EMn0)
   - [SOLID Interview questions](https://youtu.be/-9OM6-6pZw8)
   - [Single responsibility principle](https://youtu.be/o4bQywkBKOI)
-  - Open/closed principle
+  - [Open/closed principle](https://github.com/HowProgrammingWorks/OpenClosed)
   - [Liskov substitution principle](https://youtu.be/RbhYxygxroc)
-  - Interface segregation principle
-  - Dependency inversion principle
+  - [Interface segregation principle](https://github.com/HowProgrammingWorks/InterfaceSegregation)
+  - [Dependency inversion principle](https://github.com/HowProgrammingWorks/DependencyInversion)
