@@ -12,7 +12,8 @@ Translations:
   - 🏭 Creational patterns
     - [Abstract factory](https://github.com/HowProgrammingWorks/AbstractFactory)
     - [Builder](https://github.com/HowProgrammingWorks/Builder)
-    - [Factory method](https://github.com/HowProgrammingWorks/Factory)
+    - [Factory](https://github.com/HowProgrammingWorks/Factory)
+    - [Factory Method](https://github.com/HowProgrammingWorks/FactoryMethod)
     - [Prototype](https://github.com/HowProgrammingWorks/PrototypePattern) do not confuse with [Prototype-programming](https://github.com/HowProgrammingWorks/Prototype)
     - [Singleton](https://github.com/HowProgrammingWorks/Singleton)
   - 🤝 Structural patterns
