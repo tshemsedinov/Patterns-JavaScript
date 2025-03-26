@@ -32,8 +32,7 @@ Translations:
   - ⚡ Behavioral patterns
     - [Chain of Responsibility](https://github.com/HowProgrammingWorks/ChainOfResponsibility) — passes control through a chain of handlers, selecting a responsible one; all handlers can read, but only one will modify.
     - [Middleware](https://www.youtube.com/watch?v=RS8x73z4csI) — handler chain similar to CoR, but each can modify state and pass control to the next one, potentially leading to race conditions and conflicts.
-
-    - [Command](https://github.com/HowProgrammingWorks/Command) — encapsulates an action (execution request) and parameters into an object, allowing queuing, cancellation, repetition, etc.  
+    - [Command](https://github.com/HowProgrammingWorks/Command) — encapsulates an action (execution request) and parameters into an object, allowing queuing, cancellation, repetition, etc.
     - [Interpreter](https://github.com/HowProgrammingWorks/Interpreter) — implements a DSL language (Domain Specific Language) or parses expressions into AST (Abstract Syntax Tree) for interpretation.
     - [Iterator](https://github.com/HowProgrammingWorks/Iterator) — sequentially traverses collections or streams element-by-element without exposing all data; JavaScript provides built-in Iterator and AsyncIterator.
     - [Mediator](https://github.com/HowProgrammingWorks/Mediator) — optimizes communication between N components, centralizing interaction to reduce coupling from `N*(N-1)/2` down to `N`.
