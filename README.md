@@ -1,4 +1,4 @@
-# 🧩 Патерны для JavaScript и Node.js
+# 🧩 Патерны для JavaScript, TypeScript и Node.js
 
 > Переосмысление GRASP (разделения ответственности - General Responsibility Assignment Software Patterns), SOLID (единственной ответственности, открытый-закрытый, подстановки Лисков, разделения интерфейсов, инверсии зависимостей), GoF (Банды четырех - Gang of Four) для фронтенда (браузерное программирование) & бекенда (node.js, другие рантаймы) разработки на JavaScript и TypeScript
 
@@ -7,7 +7,7 @@
 [UA](https://github.com/tshemsedinov/Patterns-JavaScript/tree/ua),
 [RU](https://github.com/tshemsedinov/Patterns-JavaScript/tree/ru).
 
-- 🧩 Патерны GoF
+- 🧩 Патерны
   - 📢 [GoF патерны для Node.js и JavaScript (фрагмент семинара)](https://youtu.be/7TjzsZCQQqg)
   - 🏭 Порождающие шаблоны
     - [Абстрактная фабрика (Abstract factory)](https://github.com/HowProgrammingWorks/AbstractFactory) — создает связанные объекты, принадлежащие одному из семейств, без указания их конкретных классов, например, визуальные компоненты под разные платформы.
