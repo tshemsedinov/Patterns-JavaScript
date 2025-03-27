@@ -34,7 +34,7 @@
     - [Команда (Command)](https://github.com/HowProgrammingWorks/Command) — инкапсулирует действие (запрос исполнения) и его параметры в объект, чтоб передавать исполнителю, ставить в очередь, отменять, повторять и т.д.
     - [Интерпретатор (Interpreter)](https://github.com/HowProgrammingWorks/Interpreter) — реализация языка (DSL - domain specific language) или разбор выражений в AST (абстрактное синтаксическое дерево) с возможностью интерпретации.
     - [Итератор (Iterator)](https://github.com/HowProgrammingWorks/Iterator) — обход коллекции или потока поэлементно, без доступа ко всем данным, можно сделать как в GoF, но в JavaScript есть встроенные Iterator и AsyncIterator.
-    - [Посредний (Mediator)](https://github.com/HowProgrammingWorks/Mediator) — оптимизация взаимодействия между N компонентами, что потребовало бы N * (N - 1) / 2 связей, а централизация взаимодействия снижает зацепление до N.
+    - [Посредник (Mediator)](https://github.com/HowProgrammingWorks/Mediator) — оптимизация взаимодействия между N компонентами, что потребовало бы N * (N - 1) / 2 связей, а централизация взаимодействия снижает зацепление до N.
     - [Снимок (Memento)](https://github.com/HowProgrammingWorks/Memento) — сохранение и восстановление истории снимков состояния объекта, без прямого доступа к самому состоянию.
     - [Наблюдатель (Observable)](https://github.com/HowProgrammingWorks/Observer) — уведомление подписчиков об изменении состояния объекта.
       - [EventEmitter](https://github.com/HowProgrammingWorks/EventEmitter) для Node.js: Observable + listener
