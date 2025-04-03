@@ -46,8 +46,9 @@ Translations:
     - [Template method](https://github.com/HowProgrammingWorks/TemplateMethod) — defines algorithm steps, allowing subclasses to override individual steps while defaulting to the superclass behavior.
     - [Visitor](https://github.com/HowProgrammingWorks/Visitor) — adds operations to objects without altering their classes, separating structure and behavior into distinct abstractions.
     - [Revealing Constructor](https://github.com/HowProgrammingWorks/RevealingConstructor) — changes behavior without inheritance, injecting functionality into constructors via functions or objects describing the behavior.
-    - Reactor (event-loop) - Handles concurrent events synchronously by adding them to queue and dispatching them to registered handlers. Implements event-driven async processing on the top of the sync one; commonly used in I/O-bound systems.
-    - Actor – Encapsulates state and behavior, communicating asynchronously via message passing and processing messages in a queue. Ensures thread-safe and async-safe concurrent operations by isolating actor state.
+    - [Actor](https://github.com/HowProgrammingWorks/Actor) – Encapsulates state and behavior, communicating asynchronously via message passing and processing messages in a queue. Ensures thread-safe and async-safe concurrent operations by isolating actor state.
+    - [Reactor (event-loop)](https://github.com/HowProgrammingWorks/Reactor) - Handles concurrent events synchronously by adding them to queue and dispatching them to registered handlers. Implements event-driven async processing on the top of the sync one; commonly used in I/O-bound systems.
+    - [Proactor](https://github.com/HowProgrammingWorks/Proactor) - Event loop where operations started by user-land code but completed by an external agent (for example I/O subsystem), which then triggers a completion handler when the operation finishes (returning data to callback).
 - 🧩 GRASP patterns
   - 📢 Intro video
     - [GRASP Overview](https://youtu.be/ExauFjYV_lQ)
