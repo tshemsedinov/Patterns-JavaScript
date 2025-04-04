@@ -32,6 +32,8 @@ Translations:
     - Active Record — domain object encapsulating a database record, providing methods to directly perform CRUD operations (create, read, update, delete) and domain-specific queries on itself.
     - Data access object (DAO) — abstraction defining an interface to persist and retrieve domain objects, isolating domain logic from specific storage implementations.
     - Data transfer object (DTO) — an anemic object (just plain data) carrier without domain behavior, designed explicitly for transferring structured data across application boundaries, layers, modules, or subsystems.
+    - Data Access Layer (DAL) — a layer abstracting access to multiple DAOs or raw data sources. Can be represented as Facade pattern. Often includes transformations.
+    - Repository — domain-centric abstraction for data access that returns domain entities, not raw data or DTOs.
   - ⚡ Behavioral patterns
     - [Chain of Responsibility](https://github.com/HowProgrammingWorks/ChainOfResponsibility) — passes control through a chain of handlers, selecting a responsible one; all handlers can read, but only one will modify.
     - [Middleware](https://www.youtube.com/watch?v=RS8x73z4csI) — handler chain similar to CoR, but each can modify state and pass control to the next one, potentially leading to race conditions and conflicts.
