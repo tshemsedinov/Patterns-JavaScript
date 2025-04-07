@@ -51,13 +51,13 @@ Translations:
     - [Proactor](https://github.com/HowProgrammingWorks/Proactor) - Event loop where operations started by user-land code but completed by an external agent (for example I/O subsystem), which then triggers a completion handler when the operation finishes (returning data to callback).
     - Service Locator
 - Data access patterns
-    - Transaction Script
+    - [Transaction Script](https://github.com/HowProgrammingWorks/TransactionScript) — a procedural pattern where each business operation is implemented as a function or script that coordinates logic, data access, and side effects. Its purpose is to keep logic straightforward and centralized, ideal for simple applications or service-layer orchestration without requiring full domain modeling.
     - Pattern SAGA
     - Unit of Work
     - Table Module
     - [Value Object](https://github.com/HowProgrammingWorks/ValueObject) — an immutable, self-validating object that represents a concept in the domain without identity, used to express domain constraints and logic by value rather than reference. It exists to model descriptive attributes, ensure consistency, and support value-based equality in a type-safe, intention-revealing way.
     - [Null Object](https://github.com/HowProgrammingWorks/ValueObject) — an object that implements a standard interface but provides neutral, do-nothing behavior, designed to avoid null checks, simplify control flow, and ensure polymorphic safety. It exists as a safe default substitute to eliminate conditionals and guard clauses in client code.
-    - Active Record — domain object encapsulating a database record, providing methods to directly perform CRUD operations (create, read, update, delete) and domain-specific queries on itself.
+    - [Active Record](https://github.com/HowProgrammingWorks/ActiveRecord) — domain object encapsulating a database record, providing methods to directly perform CRUD operations (create, read, update, delete) and domain-specific queries on itself.
     - Data access object (DAO) — abstraction defining an interface to persist and retrieve domain objects, isolating domain logic from specific storage implementations.
     - Data transfer object (DTO) — an anemic object (just plain data) carrier without domain behavior, designed explicitly for transferring structured data across application boundaries, layers, modules, or subsystems.
     - Data Access Layer (DAL) — a layer abstracting access to multiple DAOs or raw data sources. Can be represented as Facade pattern. Often includes transformations.
