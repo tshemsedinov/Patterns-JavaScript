@@ -52,9 +52,9 @@ Translations:
     - Service Locator
 - Data access patterns
     - [Transaction Script](https://github.com/HowProgrammingWorks/TransactionScript) — a procedural pattern where each business operation is implemented as a function or script that coordinates logic, data access, and side effects. Its purpose is to keep logic straightforward and centralized, ideal for simple applications or service-layer orchestration without requiring full domain modeling.
-    - Pattern SAGA
-    - Unit of Work
-    - Table Module
+    - Pattern SAGA — a distributed transaction pattern where a long-running business process is split into a sequence of local transactions, each with a compensating action in case of failure. It exists to avoid distributed locking.
+    - Unit of Work — a transactional boundary pattern that tracks changes to business objects and coordinates persistence as a single atomic operation in ORMs or Repository layers to encapsulate all work in a transaction.
+    - Table Module — a pattern where all domain logic related to a database table is encapsulated in a single class or module, treating rows as simple data.
     - [Value Object](https://github.com/HowProgrammingWorks/ValueObject) — an immutable, self-validating object that represents a concept in the domain without identity, used to express domain constraints and logic by value rather than reference. It exists to model descriptive attributes, ensure consistency, and support value-based equality in a type-safe, intention-revealing way.
     - [Null Object](https://github.com/HowProgrammingWorks/ValueObject) — an object that implements a standard interface but provides neutral, do-nothing behavior, designed to avoid null checks, simplify control flow, and ensure polymorphic safety. It exists as a safe default substitute to eliminate conditionals and guard clauses in client code.
     - [Active Record](https://github.com/HowProgrammingWorks/ActiveRecord) — domain object encapsulating a database record, providing methods to directly perform CRUD operations (create, read, update, delete) and domain-specific queries on itself.
