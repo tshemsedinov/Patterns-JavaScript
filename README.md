@@ -50,7 +50,7 @@ Translations:
     - [Reactor (event-loop)](https://github.com/HowProgrammingWorks/Reactor) - Handles concurrent events synchronously by adding them to queue and dispatching them to registered handlers. Implements event-driven async processing on the top of the sync one; commonly used in I/O-bound systems.
     - [Proactor](https://github.com/HowProgrammingWorks/Proactor) - Event loop where operations started by user-land code but completed by an external agent (for example I/O subsystem), which then triggers a completion handler when the operation finishes (returning data to callback).
     - Service Locator
-- Data access patterns
+  - 🗃️ Data access patterns
     - [Transaction Script](https://github.com/HowProgrammingWorks/TransactionScript) — a procedural pattern where each business operation is implemented as a function or script that coordinates logic, data access, and side effects. Its purpose is to keep logic straightforward and centralized, ideal for simple applications or service-layer orchestration without requiring full domain modeling.
     - Pattern SAGA — a distributed transaction pattern where a long-running business process is split into a sequence of local transactions, each with a compensating action in case of failure. It exists to avoid distributed locking.
     - Unit of Work — a transactional boundary pattern that tracks changes to business objects and coordinates persistence as a single atomic operation in ORMs or Repository layers to encapsulate all work in a transaction.
@@ -62,6 +62,7 @@ Translations:
     - Data transfer object (DTO) — an anemic object (just plain data) carrier without domain behavior, designed explicitly for transferring structured data across application boundaries, layers, modules, or subsystems.
     - Data Access Layer (DAL) — a layer abstracting access to multiple DAOs or raw data sources. Can be represented as Facade pattern. Often includes transformations.
     - [Repository](https://github.com/HowProgrammingWorks/Repository) — domain-centric abstraction for data access that returns domain entities, not raw data or DTOs.
+    - Other patterns: Template method, Actor, State, Memento
 - 🧩 GRASP patterns
   - 📢 Intro video
     - [GRASP Overview](https://youtu.be/ExauFjYV_lQ)
