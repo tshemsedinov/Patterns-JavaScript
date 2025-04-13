@@ -58,11 +58,11 @@
     - [Value Object](https://github.com/HowProgrammingWorks/ValueObject) — незмінний, самоперевіряючийся об'єкт, що представляє концепт у домені без ідентифікатора. Використовується для вираження доменних обмежень і узгодженості логіки значень, порівняння за значенням у типобезпечній, явно вираженій формі.
     - [Null Object](https://github.com/HowProgrammingWorks/ValueObject) — об'єкт, який реалізує стандартний інтерфейс, але надає нейтральну поведінку «do-nothing». Призначений для уникнення перевірок на null, спрощення логіки та забезпечення поліморфної безпеки. Є заміною дії «за замовчуванням», що усуває умовні конструкції та перевірки через гварди.
     - [Active Record](https://github.com/HowProgrammingWorks/ActiveRecord) — доменний об'єкт, що інкапсулює запис у таблиці бази даних і надає методи для безпосереднього виконання операцій CRUD (створення, читання, оновлення, видалення) та специфічних запитів до себе.
-    - Data access object (DAO) — абстракція, яка визначає інтерфейс для збереження та отримання доменних об'єктів, ізолюючи доменну логіку від конкретних реалізацій сховища.
+    - [Data access object (DAO)](https://github.com/HowProgrammingWorks/Repository) — абстракція, яка визначає інтерфейс для збереження та отримання доменних об'єктів, ізолюючи доменну логіку від конкретних реалізацій сховища.
     - Data transfer object (DTO) — анемічний об'єкт (лише дані) без доменної поведінки, призначений виключно для передавання структурованих даних між шарами, модулями, підсистемами або архітектурними межами.
     - Data Access Layer (DAL) — шар, що абстрагує доступ до множини DAO або сирих джерел даних. Може бути реалізований як шаблон Facade. Часто включає трансформацію даних.
     - [Repository](https://github.com/HowProgrammingWorks/Repository) — доменно-центрична абстракція для доступу до даних, яка повертає доменні сутності, а не сирі дані або DTO.
-    - Див. інші шаблони: Template method, Actor, State, Memento
+    - Див. інші шаблони: [Template method](https://github.com/HowProgrammingWorks/TemplateMethod), [Actor](https://github.com/HowProgrammingWorks/Actor), [State](https://github.com/HowProgrammingWorks/State), [Memento](https://github.com/HowProgrammingWorks/Memento)
 - 🧩 Шаблони (патерни чи принципи) GRASP
   - 📢 Вступний семінар
     - [Загальний огляд GRASP](https://youtu.be/ExauFjYV_lQ)
