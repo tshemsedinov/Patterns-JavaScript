@@ -21,8 +21,7 @@ Translations:
   - 🤝 Structural patterns
     - [Adapter](https://github.com/HowProgrammingWorks/Adapter) — converts an incompatible interface into a compatible one, enabling third-party component usage without altering its code; can even transform a function contract into an object or vice versa.
     - [Wrapper](https://github.com/HowProgrammingWorks/Wrapper) — function wrapper that delegates calls and adds behavior; a specialized case of Adapter.
-    - Boxing — wraps primitives into object types to add methods or unify interfaces, e.g., narrowing `String` to `AddressString`.
-    - Decorator 
+    - [Boxing](https://github.com/HowProgrammingWorks/ADT) — wraps primitives into object types to add methods or unify interfaces, e.g., narrowing `String` to `AddressString`.
     - [Decorator](https://github.com/HowProgrammingWorks/Decorator) — dynamically extends behavior without inheritance, typically via composition and declarative syntax, effectively adding metadata.
     - [Proxy](https://github.com/HowProgrammingWorks/Proxy) — controls access to an object by intercepting calls, reads, and writes; useful for lazy initialization, caching, and security; can be implemented via GoF or native JavaScript Proxy.
     - [Bridge](https://github.com/HowProgrammingWorks/Bridge) — separates two or more abstraction hierarchies via composition or aggregation, allowing them to evolve independently.
