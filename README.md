@@ -63,18 +63,12 @@ Translations:
     - [Repository](https://github.com/HowProgrammingWorks/Repository) — domain-centric abstraction for data access that returns domain entities, not raw data or DTOs.
     - Other patterns: [Template method](https://github.com/HowProgrammingWorks/TemplateMethod), [Actor](https://github.com/HowProgrammingWorks/Actor), [State](https://github.com/HowProgrammingWorks/State), [Memento](https://github.com/HowProgrammingWorks/Memento)
 - 🧩 GRASP patterns
-  - 📢 Intro video
-    - [GRASP Overview](https://youtu.be/ExauFjYV_lQ)
-    - Part 1 - [GRASP for Node.js and Javascript](https://youtu.be/vm8p4jIQwp4)
-    - Part 2 - coming soon
+  - [GRASP Overview](https://youtu.be/ExauFjYV_lQ)
+  - [GRASP Part 1: Information expert, Creator, Low coupling, High cohesion](https://youtu.be/vm8p4jIQwp4)
+  - [GRASP Part 1: Protected variations, Indirection, Pure fabrication, Polymorphism, Controller](https://youtu.be/aJGB7TLwiig)
   - [Information expert](https://youtu.be/cCHL329_As0)
-  - Creator
-  - Controller
-  - Indirection
   - [Low coupling](https://youtu.be/IGXdPOZ3Fyk)
   - [High cohesion](https://youtu.be/IGXdPOZ3Fyk)
-  - Polymorphism
-  - Protected variations
   - [Pure fabrication](https://youtu.be/CV577a0RHBM)
   - [Real code examples](https://youtu.be/4AMVQ2-2DcM)
 - 🧩 SOLID Patterns
