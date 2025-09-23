@@ -13,7 +13,7 @@
     - [Абстрактна фабрика (Abstract factory)](https://github.com/HowProgrammingWorks/AbstractFactory) — створює пов’язані об'єкти одного сімейства без зазначення їх конкретних класів, наприклад, візуальні компоненти під різні платформи.
     - [Будівельник (Builder)](https://github.com/HowProgrammingWorks/Builder) — покрокова збірка складного об'єкта з можливістю конфігурації, часто через чейнінг, наприклад, Query Builder або Form Generator.
     - [Фабрика (Factory)](https://github.com/HowProgrammingWorks/Factory) — функція або метод для створення об'єктів різними способами: складанням частинами з літералів об'єктів і окремих методів, через міксіни, setPrototypeOf.
-    - [Фабричний метод (Factory method)](https://github.com/HowProgrammingWorks/Factory) — вибирає потрібну абстракцію для створення екземпляра, у JavaScript це можна реалізувати через `if`, `switch` або вибір конструктора з колекції.
+    - [Фабричний метод (Factory method)](https://github.com/HowProgrammingWorks/FactoryMethod) — вибирає потрібну абстракцію для створення екземпляра, у JavaScript це можна реалізувати через `if`, `switch` або вибір конструктора з колекції.
     - [Прототип (Prototype)](https://github.com/HowProgrammingWorks/PrototypePattern) — клонування об'єкта із заздалегідь підготовленого екземпляра для економії ресурсів при створенні (не плутати з [прототипним наслідуванням](https://github.com/HowProgrammingWorks/Prototype), воно ближче до Flyweight).
     - [Легковаговик (Flyweight)](https://github.com/HowProgrammingWorks/Flyweight) — економія пам'яті для групи об'єктів через доступ до спільного (розділюваного) стану в конкретному екземплярі.
     - [Одинак (Singleton)](https://github.com/HowProgrammingWorks/Singleton) — глобальний доступ до єдиного екземпляра, часто вважається антипатерном, найпростіше реалізувати через кеш модульних систем ESM/CJS.
@@ -21,8 +21,8 @@
   - 🤝 Структурні шаблони
     - [Адаптер (Adapter)](https://github.com/HowProgrammingWorks/Adapter) — конвертер, що перетворює несумісний інтерфейс на сумісний, дозволяючи використовувати сторонній компонент без змін його коду, може перетворювати контракт функції в об'єкт або навпаки.
     - [Обгортка (Wrapper)](https://github.com/HowProgrammingWorks/Wrapper) — обгортка над функцією з прокиданням виклику (делегуванням) і додаванням поведінки, частковий випадок патерна Adapter.
-    - Боксування (Boxing) — упаковка примітивів у об'єктні типи для додавання методів або уніфікації інтерфейсів, наприклад, звуження String до AddressString.
-    - Декоратор — динамічно розширює поведінку без наслідування, зазвичай через композицію та декларативний синтаксис, по суті додає метадані.
+    - [Боксування (Boxing)](https://github.com/HowProgrammingWorks/ADT) — упаковка примітивів у об'єктні типи для додавання методів або уніфікації інтерфейсів, наприклад, звуження String до AddressString.
+    - [Декоратор](https://github.com/HowProgrammingWorks/Decorator) — динамічно розширює поведінку без наслідування, зазвичай через композицію та декларативний синтаксис, по суті додає метадані.
     - [Проксі чи Замісник (Proxy)](https://github.com/HowProgrammingWorks/Proxy) — контролює доступ до об'єкта, перехоплює виклики, читання та запис, може застосовуватись для лінивої ініціалізації, кешування та безпеки; реалізується як через патерн GoF, так і вбудованим JavaScript Proxy.
     - [Міст (Bridge)](https://github.com/HowProgrammingWorks/Bridge) — розділення двох або більше ієрархій абстракцій через композицію або агрегацію, дозволяючи їм змінюватися незалежно.
     - [Компоновщик (Composite)](https://github.com/HowProgrammingWorks/Composite) — реалізує загальний інтерфейс, що дозволяє однаково працювати з окремими об'єктами та їхніми деревами, наприклад, DOM чи файлова система.
@@ -74,7 +74,7 @@
   - Ненаправленість (Indirection)
   - [Низьке зчеплення (Low coupling)](https://youtu.be/IGXdPOZ3Fyk)
   - [Висока згуртованість (High cohesion)](https://youtu.be/IGXdPOZ3Fyk)
-  - Поліморфізм (Polymorphism)
+  - [Поліморфізм (Polymorphism)](https://youtu.be/IGXdPOZ3Fyk)
   - Захищені варіації (Protected variations)
   - [Чиста вигадка (Pure fabrication)](https://youtu.be/CV577a0RHBM)
   - [Приклади коду](https://youtu.be/4AMVQ2-2DcM)
