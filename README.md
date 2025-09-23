@@ -62,18 +62,13 @@
     - [Repository](https://github.com/HowProgrammingWorks/Repository) — доменно-центричная абстракция для доступа к данным, возвращающая доменные сущности, а не сырые данные или DTO.
     - См. другие шаблоны: [Template method](https://github.com/HowProgrammingWorks/TemplateMethod), [Actor](https://github.com/HowProgrammingWorks/Actor), [State](https://github.com/HowProgrammingWorks/State), [Memento](https://github.com/HowProgrammingWorks/Memento)
 - 🧩 Шаблоны (патерны или принципы) GRASP
-  - 📢 Вводная лекция
-    - [Общий обзор GRASP](https://youtu.be/ExauFjYV_lQ)
-    - Часть 1 - [GRASP для Node.js и Javascript](https://youtu.be/vm8p4jIQwp4)
-    - Часть 2 - скоро
+  - [Общий обзор GRASP](https://youtu.be/ExauFjYV_lQ)
+  - [GRASP Part 1: Information expert, Creator, Low coupling, High cohesion](https://youtu.be/vm8p4jIQwp4)
+  - [GRASP Part 1: Protected variations, Indirection, Pure fabrication, Polymorphism, Controller](https://youtu.be/aJGB7TLwiig)
   - [Информационный эксперт (Information expert)](https://youtu.be/cCHL329_As0)
-  - Создатель (Creator)
-  - Контроллер (Controller)
   - [Ненаправленность (Indirection)](https://youtu.be/IGXdPOZ3Fyk)
   - [Низкое зацепление (Low coupling)](https://youtu.be/IGXdPOZ3Fyk)
   - [Высокая связность (High cohesion)](https://youtu.be/IGXdPOZ3Fyk)
-  - Полиморфизм (Polymorphism)
-  - Защищенные вариации (Protected variations)
   - [Чистая выдумка (Pure fabrication)](https://youtu.be/CV577a0RHBM)
   - [Примеры кода](https://youtu.be/4AMVQ2-2DcM)
 - 🧩 Шаблоны (патерны или принципы) SOLID
