@@ -65,12 +65,21 @@ Translations:
 - 🧩 GRASP patterns
   - [GRASP Overview](https://youtu.be/ExauFjYV_lQ)
   - [GRASP Part 1: Information expert, Creator, Low coupling, High cohesion](https://youtu.be/vm8p4jIQwp4)
-  - [GRASP Part 1: Protected variations, Indirection, Pure fabrication, Polymorphism, Controller](https://youtu.be/aJGB7TLwiig)
+  - [GRASP Part 2: Protected variations, Indirection, Pure fabrication, Polymorphism, Controller](https://youtu.be/aJGB7TLwiig)
   - [Information expert](https://youtu.be/cCHL329_As0)
   - [Low coupling](https://youtu.be/IGXdPOZ3Fyk)
   - [High cohesion](https://youtu.be/IGXdPOZ3Fyk)
   - [Pure fabrication](https://youtu.be/CV577a0RHBM)
   - [Real code examples](https://youtu.be/4AMVQ2-2DcM)
+  - Information Expert - assign responsibilities to those abstractions that have the necessary data. Related: Encapsulation, Cohesion, Coupling, Information hiding, SOLID: SRP, SoC.
+  - Creator - if one abstraction writes, reads, aggregates, uses, or is tightly coupled with another, then it should create and initialize that other abstraction. Related: Information Expert, GoF Creational patterns.
+  - Controller - contains use-case scenarios for processing external I/O requests from the UI, API, or event bus and delegates execution to other abstractions. Related: GoF Command, Facade, Layers, Pure Fabrication.
+  - Low Coupling - each abstraction minimally depends on the implementation details of others and contains a minimum of "knowledge" (calls). Provides stability, ease of testing, and maintenance. Related: High Cohesion, Controller, Indirection, DIP, DI, IoC, Revealing Constructor, Facade, Mediator, Observer, Strategy, State, Bridge, Adapter, Proxy.
+  - High Cohesion - all internal elements of an abstraction are tightly bound by a common purpose and "know" each other's contracts, working together to solve a single, specific problem. Such abstractions are easy to understand, test, and maintain. Related: Low Coupling, Information Expert, Composite, Facade, Adapter. High coupling within a module and low coupling between modules ensure system stability.
+  - Polymorphism - using dynamic dispatch, abstractions select behavior and delegate actions to objects with a common interface instead of explicitly branching by type. Related: GoF Strategy, Adapter, Creator, Command, State, Bridge, Template Method, Visitor, Factory Method, Proxy.
+  - Pure Fabrication - artificial abstractions that are not domain-specific but serve structural, architectural, and technical needs. Related: SRP, ISP, GoF: Facade, Adapter, Observer, Command, Mediator, Repository, Service. Examples: EventEmitter, Stream, Connection, Promise, Error.
+  - Indirection - a mediator for implementing loose coupling between components. Related: GoF Mediator, Facade, Observer, Service Layer, API Gateway, Message Broker, Event Bus.
+  - Protected Variations - protects abstractions from change by extracting interactions to a fixed interface, only through which interactions between abstractions are possible. Related: Interface, Contract Programming, Generics, OCP, DIP, DI, IoC, GoF: Strategy, Bridge, Abstract Factory, Factory Method, Adapter, Proxy, Facade.
 - 🧩 SOLID Patterns
   - 📢 Intro video: [SOLID for Node.js and Javascript](https://youtu.be/B2guSV8EMn0)
   - [SOLID Interview questions](https://youtu.be/-9OM6-6pZw8)
