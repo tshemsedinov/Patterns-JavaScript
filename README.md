@@ -66,13 +66,22 @@
 - 🧩 Шаблони (патерни чи принципи) GRASP
   - [Загальний огляд GRASP](https://youtu.be/ExauFjYV_lQ)
   - [GRASP Part 1: Information expert, Creator, Low coupling, High cohesion](https://youtu.be/vm8p4jIQwp4)
-  - [GRASP Part 1: Protected variations, Indirection, Pure fabrication, Polymorphism, Controller](https://youtu.be/aJGB7TLwiig)
+  - [GRASP Part 2: Protected variations, Indirection, Pure fabrication, Polymorphism, Controller](https://youtu.be/aJGB7TLwiig)
   - [Інформаційний експерт (Information expert)](https://youtu.be/cCHL329_As0)
   - [Низьке зчеплення (Low coupling)](https://youtu.be/IGXdPOZ3Fyk)
   - [Висока згуртованість (High cohesion)](https://youtu.be/IGXdPOZ3Fyk)
   - [Поліморфізм (Polymorphism)](https://youtu.be/IGXdPOZ3Fyk)
   - [Чиста вигадка (Pure fabrication)](https://youtu.be/CV577a0RHBM)
   - [Приклади коду](https://youtu.be/4AMVQ2-2DcM)
+  - Information Expert - розподіляйте обов'язок із виконання завдання на ті абстракції, які мають потрібні дані. Пов'язано: Encapsulation, Cohesion, Coupling, Information hiding, SOLID: SRP, SoC.
+  - Creator - якщо одна абстракція пише, читає, аггрегує, використовує, та сильно зачеплена з іншою, то вона і повинна її створювати та ініціалізувати. Зв'язно: Information Expert, GoF Creational patterns.
+  - Controller - містить use-case сценарії обробки зовнішніх I/O запитів, від UI, API чи Event Bus і делегує виконання іншим абстракціям. Пов'язано: GoF Command, Facade, Layers, Pure Fabrication.
+  - Low Coupling – кожна абстракція мінімально залежить від деталей реалізації інших, містить мінімум "знань" (звернень). Дає стійкість, простоту тестування та супроводу. Пов'язано: High Cohesion, Controller, Indirection, DIP, DI, IoC, Revealing constructor, Facade, Mediator, Observer, Strategy, State, Bridge, Adapter, Proxy.
+  - High Cohesion - усі внутрішні елементи абстракції тісно пов'язані спільною метою і "знають" контракти одне одного, спільно вирішують одну конкретну задачу. Такі абстракції легко розуміються, тестуються та супроводжуються. Пов'язано: Low Coupling, Information Expert, Composite, Facade, Adapter. Висока зв'язаність усередині модуля та низьке зачеплення між модулями дають стійкість системи.
+  - Polymorphism - за допомогою динамічної диспетчеризації абстракції вибирають поведінку та делегують дії об'єктам із загальним інтерфейсом замість явного розгалуження за типом. Пов'язано: GoF Strategy, Adapter, Creator, Command, State, Bridge, Template Method, Visitor, Factory Method, Proxy.
+  - Pure Fabrication – штучні абстракції, які не належать до предметної області, а обслуговують структурні, архітектурні та технічні потреби. Пов'язано: SRP, ISP, GoF: Facade, Adapter, Observer, Command, Mediator, Repository, Service. Приклади: EventEmitter, Stream, Connection, Promise, Error.
+  - Indirection – посередник для реалізації слабкого зачеплення між компонентами. Пов'язані: GoF Mediator, Facade, Observer, Service Layer, API Gateway, Message Broker, Event Bus.
+  - Protected Variations - захищає абстракції від зміни за допомогою винесення взаємодії у фіксований інтерфейс, тільки через який можлива взаємодія між абстракціями. Пов'язано: Interface, Contract programing, Generics, OCP, DIP, DI, IoC, GoF: Strategy, Bridge, Abstract Factory, Factory Method, Adapter, Proxy, Facade.
 - 🧩 Шаблони (патерни чи принципи) SOLID
   - 📢 Вступний семінар: [SOLID for Node.js and Javascript](https://youtu.be/B2guSV8EMn0)
   - [SOLID питання на інтерв'ю](https://youtu.be/-9OM6-6pZw8)
