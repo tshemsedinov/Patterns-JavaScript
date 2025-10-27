@@ -88,3 +88,8 @@ Translations:
   - [Liskov substitution principle](https://youtu.be/RbhYxygxroc)
   - [Interface segregation principle](https://github.com/HowProgrammingWorks/InterfaceSegregation)
   - [Dependency inversion principle](https://github.com/HowProgrammingWorks/DependencyInversion)
+  - Single responsibility principle - a class should have only one reason to change. "A module should be responsible for one and only one actor."
+  - Open-closed principle - abstractions (classes, types, etc.) should be open for extension but closed for modification.
+  - Liskov substitution principle - functions that use a base type should be able to use subtypes of the base type without knowing it.
+  - Interface segregation principle - many interfaces specifically designed for clients are better than one general-purpose interface.
+  - Dependency inversion principle - depend upon abstractions, not concretes.
