@@ -88,3 +88,8 @@
   - [Принцип подстановки Лисков (Liskov substitution principle)](https://youtu.be/RbhYxygxroc)
   - [Принцип разделения интерфейса (Interface segregation principle)](https://github.com/HowProgrammingWorks/InterfaceSegregation)
   - [Принцип инверсии зависимостей (Dependency inversion principle)](https://github.com/HowProgrammingWorks/DependencyInversion)
+  - Single responsibility principle - у класса должна быть только одна причина для изменения. «Модуль должен отвечать за одного и только за одного актора.»
+  - Open-closed principle - абстракции (классы, типы и т.д.) должны быть открыты для расширения, но закрыты для модификации.
+  - Liskov substitution principle - функции, которые используют базовый тип, должны иметь возможность использовать подтипы базового типа не зная об этом.
+  - Interface segregation principle - много интерфейсов, специально предназначенных для клиентов, лучше, чем один интерфейс общего назначения.
+  - Dependency inversion principle - Зависимость на Абстракциях. Нет зависимости на конкретное.
