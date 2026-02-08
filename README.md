@@ -28,7 +28,6 @@ Translations:
     - [Composite](https://github.com/HowProgrammingWorks/Composite) — implements a common interface to uniformly handle individual objects and their tree structures, e.g., DOM or file systems.
     - [Facade](https://github.com/HowProgrammingWorks/Facade) — simplifies access to a complex system, providing a unified and clear interface, hiding and protecting internal complexity.
     - [Flyweight](https://github.com/HowProgrammingWorks/Flyweight) — saves memory allocation by sharing common state among multiple instances.
-    - [Context](https://github.com/HowProgrammingWorks/Context) — sharing data and dependencies between different components (abstractions, modules, layers) having no shared environment without coupling them tightly.
     - [Context](https://github.com/HowProgrammingWorks/Context) — обмен состоянием и зависимостями между различными компонентами (абстракциями, модулями, слоями), не имеющими общей среды, без жесткого их зацепления.
   - ⚡ Behavioral patterns
     - [Chain of Responsibility](https://github.com/HowProgrammingWorks/ChainOfResponsibility) — passes control through a chain of handlers, selecting a responsible one; all handlers can read, but only one will modify.
